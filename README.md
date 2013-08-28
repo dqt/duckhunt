@@ -15,7 +15,6 @@ Requirements:
 To Use:
   
   $ python duckhunt.py -h
-  
   INFO: Starting program...
   usage: duckhunt.py [-h] [-q QUERIES] [-m MAX]
   
