@@ -7,7 +7,8 @@ Requirements:
 
   requests
   
-  to install:
+  To Install Requests:
+  
     pip install requests
     
   
