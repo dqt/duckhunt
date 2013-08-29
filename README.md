@@ -7,19 +7,27 @@ Requirements:
 
   requests
   
-  To Install Requests:
+  To Install requests:
   
     pip install requests
     
   
 To Use:
   
-  $ python duck.py -h
+  $ python duckhunt.py -h
+  
   INFO: Starting program...
-  usage: duck.py [-h] [-q QUERIES] [-m MAX]
+  
+  usage: duckhunt.py [-h] [-q QUERIES] [-m MAX]
+  
   
   optional arguments:
+  
     -h, --help            show this help message and exit
+    
     -q QUERIES, --queries QUERIES
+    
                           file containing queries to search
+                          
     -m MAX, --max MAX     max number of pages per query
+
