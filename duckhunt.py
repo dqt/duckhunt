@@ -86,7 +86,7 @@ def main():
 		x.debug("Trying %s", query)
 		returned = 0
 		next = "s=0"
-		while returned < maxi:
+		while returned <= maxi:
 			x.debug("Returned %d so far from this value", returned)
 			x.debug("Next page string: %s", next)
 			end = querybuilder(str(query), next)
