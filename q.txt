@@ -1,5 +1,4 @@
 ducks
-poop
 and stuff
 inurl:config.php
 site:cnn.com
